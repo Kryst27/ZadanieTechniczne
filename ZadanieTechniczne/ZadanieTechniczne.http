@@ -1,0 +1,6 @@
+@ZadanieTechniczne_HostAddress = http://localhost:5121
+
+GET {{ZadanieTechniczne_HostAddress}}/number/
+Accept: application/json
+
+###
